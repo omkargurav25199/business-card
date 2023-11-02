@@ -1,0 +1,33 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-seri f;
+}
+
+.avatar{
+    width: 200px;
+    border: 2px black;
+    padding: 2px;
+}
+
+.card{
+    
+    width: 500px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background: #ddebf8;
+    color: black;
+    border-bottom: 5px solid purple;
+
+}
+
+
+.border-line{
+    border: 2px dotted blue;
+}
+
+.profile-info{
+    padding-left: 20px;
+    padding-right: 20px;
+}
